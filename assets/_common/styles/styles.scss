@@ -38,6 +38,18 @@ ul.framework-element-list {
   padding-top:2em;
 }
 
+.site-page-navigation {
+  margin-top:2em;
+  display:flex;
+  justify-content:space-between;
+  .prev {
+    align-self:flex-start;
+  }
+  .next {
+    align-self:flex-end;
+  }
+}
+
 .usa-prose > h1 {
   font-size:2.2rem;
 }
@@ -54,10 +66,11 @@ ul.framework-element-list {
 }
 
 .usa-prose > ul, .usa-prose > ol {
-  margin-left:6ch;
+  margin-left:5ch;
 }
 .usa-prose > ul li, .usa-prose > ol li {
   max-width:75ex;
+  margin-bottom:0.75em;
 }
 
 dt {font-weight:700}

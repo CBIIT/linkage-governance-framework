@@ -38,3 +38,6 @@ This framework may not be helpful for all linkages. Linkages that are straightfo
 
  {% render 'callout.html', title: 'Playbook', body:'The Common Governance Framework to Link Individual-level Health Data for Research Playbook elaborates on all five elements of the framework. <a href="/framework/playbook.html">About the Playbook</a>' %}
  
+----- 
+
+{% render 'pagenavigation.html', prevTitle: 'Problem Overview', prevUrl:'/problem', nextTitle: 'Common Governance Process', nextUrl:'/framework/common-governance-process.html' %}   

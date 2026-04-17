@@ -33,3 +33,7 @@ Noah was excited to learn the data he stewards would be part of a new Linkage Go
     - One of the conflicts was around security standards for Leslie’s organization. Two dataset holders required data recipients to comply with NIST 800-171 while Noah’s organization required data recipients to comply with ISO/IEC 27001. Noah met with his CISO who determined that NIST 800-171 was acceptable and granted a waiver for the request.
     
 The coordinating body brought Noah and the other dataset holders together to review the harmonized rules, and after some negotiation they were able to agree to a harmonized approach so that the study could proceed. Noah worked with his leadership to approve the consolidated rule set. As a dataset holder, this was Noah’s first exposure to this challenge: he did not realize how many conflicts investigators would have to negotiate on their own.  [WORDS MISSING] was agreed upon by all parties and finalized, the study was allowed to proceed. Because a single set of rules was agreed upon, the three organizations were able to execute one multi-party DUA rather than three. Noah also learned a lot by seeing the rules that other dataset holders use and made a note to share policy language that he thought was clearer and could be aligned with his agency’s legal team.
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'User Stories', prevUrl:'/userstories', nextTitle: 'Investigator', nextUrl:'/userstories/investigator.html' %}   

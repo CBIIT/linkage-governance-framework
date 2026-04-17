@@ -50,3 +50,7 @@ Download the <a href="#">latest version of the Rule Harmonization Protocol</a>.
 The Current State Assessment report describes how three existing data systems currently govern data sharing and linkage for research, including their processes, strengths, and pain points. It summarizes what works well, where governance models struggle with efficiency, flexibility, and scalability, and highlights lessons that informed the design of the Linkage Governance Framework. 
 
 Download the <a href="#">Current State Assessment</a>.
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Patient', prevUrl:'/userstories/patient.html', nextTitle: 'About', nextUrl:'/about' %} 

@@ -39,3 +39,6 @@ Use case 2 focused on late complications following immunotherapy in children and
 
 The next steps are to use what we learned from the Operational Exercise to improve the Linkage Governance Framework, refine the Common Governance Process, and plan for future implementation.  
 
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Common Governance Process', prevUrl:'/framework/common-governance-process.html', nextTitle: 'Framework Playbook', nextUrl:'/framework/playbook.html' %}   

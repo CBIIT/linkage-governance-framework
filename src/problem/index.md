@@ -28,7 +28,7 @@ Some linkages of individual-level health data are happening today. For example, 
     </div>
     <div class="grid-col-4">
 
-      {% render 'summary-box.html', title: 'Key Term', body: '<b>Patient-centered outcomes research</b> aims to generate high-quality evidence about the effectiveness of treatments, services, and other health care interventions on the full range of outcomes that patients, caregivers, clinicians, policymakers, and other stakeholders have identified as important.  ' %}
+      {% render 'summary-box.html', title: '', body: '<b>Patient-centered outcomes research</b> aims to generate high-quality evidence about the effectiveness of treatments, services, and other health care interventions on the full range of outcomes that patients, caregivers, clinicians, policymakers, and other stakeholders have identified as important.  ' %}
           </div>
   </div>    
 
@@ -45,7 +45,7 @@ While there may be many commonalities between datasets’ governance, each datas
     </div>
     <div class="grid-col-4">
 
-      {% render 'summary-box.html', title: 'Key Term', body: '<b>Data governance</b> is the policies, processes, and decisions that dictate how data can be managed and used. Key to governance are consideration of data security and individual privacy. It is expressed through <b>governance rules</b> that express requirements for data access, sharing, linkage, use and dissemination.' %}
+      {% render 'summary-box.html', title: '', body: '<b>Data governance</b> is the policies, processes, and decisions that dictate how data can be managed and used. Key to governance are consideration of data security and individual privacy. It is expressed through <b>governance rules</b> that express requirements for data access, sharing, linkage, use and dissemination.' %}
     </div>
   </div>      
 </section>
@@ -67,7 +67,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 
     </div>
     <div class="grid-col-4">
-      {% render 'summary-box.html', title: 'Key Term', body:'<b>Investigators</b> are individuals responsible for the design, conduct, reporting, and scientific and ethical integrity of a research study. Investigators play a critical role ensuring the research is compliant with laws, regulations, and policies.' %}
+      {% render 'summary-box.html', title: '', body:'<b>Investigators</b> are individuals responsible for the design, conduct, reporting, and scientific and ethical integrity of a research study. Investigators play a critical role ensuring the research is compliant with laws, regulations, and policies.' %}
     </div>
   </div>      
 </section>
@@ -85,7 +85,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 
     </div>
     <div class="grid-col-4">
-      {% render 'summary-box.html', title: 'Key Term', body:'<b>Dataset holders</b> are organizations with the authority to make decisions about the access, sharing, linkage, and use of specific datasets.' %}
+      {% render 'summary-box.html', title: '', body:'<b>Dataset holders</b> are organizations with the authority to make decisions about the access, sharing, linkage, and use of specific datasets.' %}
           </div>
   </div>      
 </section>
@@ -93,3 +93,6 @@ Investigators and dataset holders share a common goal to use data linkages to dr
       
     {% render 'callout.html', title: 'Note', body:'This project conducted a Current State Assessment (CSA) to learn about the governance policies and practices of three dataset holders: N3C, PCORnet, and VRDC. The assessment and its findings can be accessed [here](/resources#current-state-assessment).' %}
 
+----- 
+
+{% render 'pagenavigation.html', prevTitle:'Home', prevUrl:'/', nextTitle: 'Framework', nextUrl:'/framework' %}

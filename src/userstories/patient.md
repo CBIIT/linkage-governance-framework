@@ -28,3 +28,7 @@ Sharon was initially hesitant to do this, but Dr. Cho explained how researchers 
 During a recent hospitalization, Tori and Sharon asked Dr. Cho what has happened with Sharon’s consented data: have any new insights emerged? Dr. Cho explained a linkage study completed previously with patient data, including Sharon’s data, and the new hypothesis it generated. Dr. Cho invited Sharon and Tori to join a patient and caregiver advisory council for her research, which Tori ultimately joined. 
  
 During the first advisory council meeting, Tori learned about the Linkage Governance Framework Dr. Cho is using to test the new hypothesis through complex data linkage. Tori was astonished to learn how hard it is to conduct linkage studies, and that Dr. Cho’s research will be groundbreaking if it can link multiple datasets. Tori was glad for federal leadership to break down barriers to research that could help improve Sharon’s life and result in a brighter future for others who develop leukemia. 
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Investigator', prevUrl:'/userstories/investigator.html', nextTitle: 'Resources', nextUrl:'/resources' %} 

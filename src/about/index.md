@@ -20,3 +20,7 @@ The project set out to design a common linkage governance framework that would s
 NCI engaged the U.S. Department of Health and Human Services’ federally funded research and development center ([Health FFRDC](https://www.mitre.org/our-impact/rd-centers/health-ffrdc)), led by [MITRE](https://www.mitre.org/), to develop and pilot a linkage governance framework to advance data linkage for patient centered outcomes research and related health priorities. HHS initiated an executive steering committee (ESC) with representation from across the department who met throughout the project to weigh in on the framework.
 
 The resulting Linkage Governance Framework is intended to help researchers and dataset holders decide when datasets can be linked and what rules and controls must apply to the resulting linked data.
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'Home', nextUrl:'/' %} 
