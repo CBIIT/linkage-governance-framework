@@ -36,3 +36,7 @@ The Common Governance Process improves the experience of investigators and datas
 
 
 The Common Governance Process is designed to reduce governance bottlenecks, preserve each dataset holder’s authority, and ultimately help more high-value linkages move from idea to implementation.
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Framework', prevUrl:'/framework', nextTitle: 'Framework Pilot', nextUrl:'/framework/framework-pilot.html' %}   

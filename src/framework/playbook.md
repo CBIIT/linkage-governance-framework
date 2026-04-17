@@ -31,3 +31,7 @@ The playbook explains each element of the framework in detail. While users can r
 - **Continuous Improvement**: Describes the three activities essential for capturing and applying lessons learned.
 
 The playbook can be accessed on the [Resources page](/resources#playbook).
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Framework Pilot', prevUrl:'/framework/framework-pilot.html', nextTitle: 'User Stories', nextUrl:'/userstories' %}   

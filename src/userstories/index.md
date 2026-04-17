@@ -26,3 +26,6 @@ The Linkage Governance Framework provides a vision of the future and a Common Go
 
   {% endfor %}
 
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Framework Playbook', prevUrl:'/framework/playbook.html', nextTitle: 'Dataset Holder', nextUrl:'/userstories/dataset-holder.html' %}   

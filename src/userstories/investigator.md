@@ -36,3 +36,7 @@ Leslie knows it will be much harder to manage this process with three datasets. 
 - Leslie’s institution receives a proposed consolidated rule set that includes all the governance rules that will apply to the linkage study. Her institution agrees they are feasible.  
 
 The process was much easier and faster for Leslie and her institution. The coordinating body shepherded her request and got early, simultaneous feedback from the dataset holders which helped her reach a study design that was feasible. Governance overlaps and conflicts were identified and harmonized by the coordinating body. Leslie was able to begin her linkage study with a clear set of rules to guide her teams creation and use of the linked data. She was able to  explore her new hypothesis.  
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Dataset Holder', prevUrl:'/userstories/dataset-holder.html', nextTitle: 'Patient', nextUrl:'/userstories/patient.html' %}   
