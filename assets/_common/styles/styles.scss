@@ -35,7 +35,7 @@ ul.framework-element-list {
 
 
 .usa-section {
-padding-top:2em;
+  padding-top:2em;
 }
 
 .usa-prose > h1 {
@@ -78,8 +78,9 @@ dd {margin-left:0}
     margin-block-end:1em;
   }
   .usa-callout-box__text {
-  font-size:0.9em;
-  color:#333;}
+    font-size:0.9em;
+    color:#333;
+  }
 }
 
 img.actor-icon {
@@ -95,6 +96,26 @@ figcaption.minor {
   color:#333;
 }
 
+.index-links {
+  display:flex;
+  gap:10px;
+  justify-content:flex-start;
+  flex-wrap:wrap;
+
+  a {
+    background-color:#f3fcff;
+    display: inline-block;
+    padding: 0.25em 1em;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color:#daf3fd;
+  }
+  a:visited {
+    color:#0b4778;
+  }
+}
 
 .grid-container .section .grid-col-4 {
   padding-left:1em;

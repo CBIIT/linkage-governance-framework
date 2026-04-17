@@ -12,10 +12,12 @@ eleventyNavigation:
 sidenav: false
 sticky_sidenav: false
 ---
-        
+     
+
 # Glossary
 
 This glossary defines common terms used in the Linkage Governance Framework. Some terms have meanings specific to the context of dataset linkage and their use in the Framework.
+
 
 ## Key Dataset Terms
 
@@ -38,8 +40,17 @@ Dissemination
 
 ## Additional Terms
 
+<div class='index-links'><a href="#a">A</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <a href="#l">L</a> <a href="#m">M</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#r">R</a></div>
+
+
+### A{#a}
+
 Access Controls
 : Mechanisms or policies that restrict and regulate who can access data, under what conditions, and through what systems. Examples include role-based access controls, multi-factor authentication, and secure environments.
+
+-----
+
+### C{#c}
 
 Common Governance Framework
 : A structured approach for harmonizing governance rules across datasets and seeking approval from dataset holders to enable safe and secure linkage of individual-level health data for research.
@@ -50,6 +61,10 @@ Consolidated Rule Set: A single set of rules that applies to a linkage implement
 
 Coordinating Body
 : The entity that operates the Common Governance Framework with both strategic and operational governance responsibilities to lead the Common Governance Process.
+
+-----
+
+### D{#d}
 
 Data Collection
 : The process of obtaining data from participants, systems, or other sources for research, clinical, or administrative purposes.
@@ -78,14 +93,26 @@ Dataset Holder
 De-identified Data
 : Data for which elements of protected health information and personally identifiable information like names, dates of birth, and phone numbers are removed in order to mitigate privacy risks to individuals. 
 
+-----
+
+### G{#g}
+
 Governance
 : A framework for decision making and clarifying roles and responsibilities based on established policies and processes.
 
 Governance Rule
 : A specific directive or guideline that dictates how data is managed, accessed, shared, linked, used, or disseminated within an organization or dataset system or between organizations.
 
+-----
+
+### H{#h}
+
 Human Subjects Research
 : Research involving a living individual about whom data or biospecimens are obtained/used/studied/analyzed through interaction/intervention, or identifiable, private information is used/studied/analyzed/generated. 
+
+-----
+
+### I{#i}
 
 Individual-level Health Data
 : Health-related person-level data that is found in electronic health records (EHRs), research repositories, registries, and other data systems. May or may not include protected health information or personally identifiable information. 
@@ -96,17 +123,33 @@ Institutional Review Board (IRB)
 Investigator
 : The individual with overall responsibility for the design, conduct, reporting, and scientific integrity of a research study.
 
+-----
+
+### L{#l}
+
 Linkage Implementation
 : A detailed plan describing how datasets will be linked, including access, transmission, sharing, person matching, data privacy, and security.
 
 Linked Dataset
 : A dataset created by merging information about the same person from separate, originating datasets into one unified dataset.
 
+-----
+
+### M{#m}
+
 Metadata
 : Data that describes data. For example, metadata may include the date of collection, ranges of acceptable values, and relationships to other data. Metadata may also include governance information such as the responsible steward, associated laws and regulations, and access management policy.
 
+-----
+
+### O{#o}
+
 Originating Dataset
 : A dataset that will be linked at the individual level and will provide data attributes to a linked dataset.
+
+-----
+
+### P{#p}
 
 Personally Identifiable Information (PII)
 : information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. 
@@ -117,9 +160,14 @@ Privacy Board
 Protected Health Information (PHI)
 : Individually identifiable health information held or transmitted by a covered entity or its business associate, in any form or media, whether electronic, paper, or oral.  Governed by the Health Insurance Portability and Accountability Act (HIPAA), PHI relates to an individual’s health condition, healthcare provision, or payment for healthcare.
 
+-----
+
+### R{#r}
+
 Requesting Institution
 : Any organization that requests access to data for linkage and use in research through the Common Governance Process, such as an institution of higher education, nonprofit or for-profit organization, local or federal government agency, etc. 
 
 Rule Harmonization
 : A structured process to align and reconcile governance rules across multiple datasets and create a single Consolidated Rule Set for managing a linked dataset.
 
+<a href="#main-content">Back to top</a>
