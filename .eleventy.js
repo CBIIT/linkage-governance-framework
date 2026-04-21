@@ -23,6 +23,14 @@ module.exports = function(config) {
   config.addPlugin(EleventyRenderPlugin);
   config.addPlugin(HtmlBasePlugin);
 
+  config.addShortcode("glossary", function(key, glossaryData) {
+    const item = glossaryData[key];
+    if (!item) return key; // Fallback if key doesn't exist
+
+    return `<span class="glossary-term" data-tippy-content="${item.definition}">${item.term}</span>`;
+  });
+
+
   config.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
   config.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs));
   config.amendLibrary("md", (mdLib) => mdLib.use(markdownItDeflist));

@@ -1,0 +1,26 @@
+{
+  "common_governance_framework": {
+    "term": "Common Governance Framework",
+    "definition": "An approach for harmonizing governance rules across datasets for approval."
+  },
+  "complex_linkages": {
+    "term": "Complex Linkages",
+    "definition" : "Linkage of individual-level health data for research where establishing the linkages entails a high level of governance complexity."
+  },
+  "consolidated_rule_set": {
+    "term": "Consolidated Rule Set",
+    "definition": "Consolidated Rule Set: A single set of rules that applies to a linkage implementation and the resulting linked dataset and reflects the governance rules from the originating datasets."
+  },
+  "coordinating_body": {
+    "term" : "Coordinating Body",
+    "definition" : "The entity that operates the Common Governance Framework with both strategic and operational governance responsibilities to lead the Common Governance Process."
+  },
+  "requesting_institution": {
+    "term": "requesting institution",
+    "definition" : "Any organization that requests access to data for linkage and use in research through the Common Governance Process, such as an institution of higher education, nonprofit or for-profit organization, local or federal government agency, etc."
+  },
+  "rule_harmonization": {
+    "term": "rule harmonization",
+    "definition" : "A process to align governance rules and create a single rule set for a linked dataset."
+  }
+}

@@ -42,7 +42,6 @@ Dissemination
 
 <div class='index-links'><a href="#a">A</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <a href="#l">L</a> <a href="#m">M</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#r">R</a></div>
 
-
 ### A{#a}
 
 Access Controls

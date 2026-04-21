@@ -8,6 +8,31 @@ USWDS Source
 ----------------------------------------------------------*/
 @forward 'uswds';
 
+
+@import 'tippy.js/themes/light-border.css';
+@import 'tippy.js/animations/shift-away.css';
+.tippy-box[data-theme~=light-border] {
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 8, 16, .15);
+  color: #222;
+  box-shadow: 0 4px 14px -2px rgba(0, 8, 16, .08);
+  font-size:0.9em;
+  padding:10px;
+  border-radius:5px;
+}
+
+.tippy-box[data-theme~=light-border] > .tippy-svg-arrow:after {
+  background-size: 18px 6px;
+  width: 18px;
+  height: 6px;
+}
+.tippy-box[data-theme~=light-border][data-placement^=top] > .tippy-arrow:after {
+  border-top-color: rgba(0, 8, 16, .2);
+  border-width: 11px 11px 0;
+  top: 11px;
+  left: 1px;
+}
 /*---------------------------------------------------------
 Custom styling
 ----------------------------------------------------------*/
@@ -66,7 +91,7 @@ ul.framework-element-list {
 }
 
 .usa-prose > ul, .usa-prose > ol {
-  margin-left:5ch;
+  margin-left:4ch;
 }
 .usa-prose > ul li, .usa-prose > ol li {
   max-width:75ex;
@@ -107,6 +132,12 @@ figcaption.minor {
   text-align:center;
   font-size:0.9rem;
   color:#333;
+}
+
+.glossary-term {
+  text-decoration: underline dotted #007bff;
+  cursor: help;
+  &:hover {background-color:#edf4ff}
 }
 
 .index-links {
