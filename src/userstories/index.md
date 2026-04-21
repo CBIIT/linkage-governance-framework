@@ -16,7 +16,7 @@ sticky_sidenav: true
 
 # User Stories
 
-The Linkage Governance Framework provides a vision of the future and a Common Governance Process that can enable complex data linkages, where appropriate, that are not currently possible. The use of investigator and dataset holder personas, communicated through user stories, illustrate the future envisioned by the framework and how it can help set the stage for discoveries to happen faster. 
+The Linkage Governance Framework is conceptual, creating a vision of the future where linking individual-level health data is less difficult.  The stories below illustrate three different perspectives on the framework’s envisioned future and how it can help enable complex data linkages that are not currently possible today.
 
 
   {% for story in collections.userstory %}

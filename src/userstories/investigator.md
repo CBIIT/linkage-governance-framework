@@ -25,7 +25,7 @@ Leslie is an early stage investigator. As a postdoc, Leslie was part of a study 
 
 Ultimately, they received approval after nearly 18 months to link data from two other datasets that were adequate but not optimal. The dataset holders wanted data use agreements with slightly different requirements over data retention, which took her institution’s legal team many additional months to work out. The process put the study behind by months and nearly led to its abandonment. But once the linkage was approved, their research began promptly and created important advances in the field’s understanding of Lyme disease.  
 
-Leslie knows it will be much harder to manage this process with three datasets. She learned about a new Linkage Governance Framework and hopes it will help her navigate the governance processes and lead to a successful linkage of the three datasets that are optimal to advance her research. She coordinates with her Institution to engage the process: 
+Leslie knows it will be much harder to manage this process with three datasets. She learned about a new Linkage Governance Framework and hopes it will help her navigate the governance processes and lead to a successful linkage of the three datasets that are optimal to advance her research. She coordinates with her Institution to engage the process:
 
 - They have only one request package despite needing access to three datasets. It goes to a single coordinating body that assesses study information for completeness and ensures that Leslie has provided a thorough plan for linkage implementation.  
 
@@ -35,7 +35,7 @@ Leslie knows it will be much harder to manage this process with three datasets. 
 
 - Leslie’s institution receives a proposed consolidated rule set that includes all the governance rules that will apply to the linkage study. Her institution agrees they are feasible.  
 
-The process was much easier and faster for Leslie and her institution. The coordinating body shepherded her request and got early, simultaneous feedback from the dataset holders which helped her reach a study design that was feasible. Governance overlaps and conflicts were identified and harmonized by the coordinating body. Leslie was able to begin her linkage study with a clear set of rules to guide her teams creation and use of the linked data. She was able to  explore her new hypothesis.  
+The process was much easier and faster for Leslie and her institution. The coordinating body shepherded her request and got early, simultaneous feedback from the dataset holders which helped her reach a study design that was feasible. Governance overlaps and conflicts were identified and harmonized by the coordinating body. Leslie was able to begin her linkage study with a clear set of rules to guide her teams creation and use of the linked data. She was able to  explore her new hypothesis.   
 
 -----
 
