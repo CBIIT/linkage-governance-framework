@@ -51,9 +51,6 @@ Access Controls
 
 ### C{#c}
 
-Common Governance Framework
-: A structured approach for harmonizing governance rules across datasets and seeking approval from dataset holders to enable safe and secure linkage of individual-level health data for research.
-
 Complex Linkages
 : Linkage of individual-level health data for research where establishing the linkages entails a high level of governance complexity.
 Consolidated Rule Set: A single set of rules that applies to a linkage implementation and the resulting linked dataset and reflects the governance rules from the originating datasets.
@@ -125,6 +122,9 @@ Investigator
 -----
 
 ### L{#l}
+
+Linkage Governance Framework
+: A structured approach for harmonizing governance rules across datasets and seeking approval from dataset holders to enable safe and secure linkage of individual-level health data for research.
 
 Linkage Implementation
 : A detailed plan describing how datasets will be linked, including access, transmission, sharing, person matching, data privacy, and security.

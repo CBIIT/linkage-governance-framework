@@ -24,7 +24,7 @@ People usually have health data held in multiple systems. Examples of this indiv
 
 When individual-level health data from different datasets can be matched and linked the combined dataset has more complete information and a fuller picture of the diverse factors contributing to the person’s health and illness over time. Linked data can drive innovative research questions and accelerates discovery, but creative linkages can have significant challenges that investigators might not anticipate. 
 
-Some linkages of individual-level health data are happening today. For example, the [All of Us Research Program](https://www.researchallofus.org) asks permission from its participants to link data from EHRs, surveys, and genomic repositories for research. Hundreds of studies have used the _All of Us_ linked data for scientific breakthroughs. However, most datasets have never been linked and many promising safe and appropriate linkages remain out of reach.  
+Some linkages of individual-level health data are happening today. For example, the [_All of Us_ Research Program](https://www.researchallofus.org) asks permission from its participants to link data from EHRs, surveys, and genomic repositories for research. Hundreds of studies have used the _All of Us_ linked data for scientific breakthroughs. However, most datasets have never been linked and many promising safe and appropriate linkages remain out of reach.  
     </div>
     <div class="grid-col-4">
 
@@ -46,7 +46,7 @@ Complex linkages arise when various aspects of data governance make the data lin
     </div>
     <div class="grid-col-4">
 
-      {% render 'summary-box.html', title: '', body: '<b>Data governance:</b> policies, processes, and decisions that dictate how data can be managed and used. Key to data governance are consideration of data security and individual privacy.<br><br><b>Data governance rules:</b> rules that express requirements for data access, sharing, linkage, use and dissemination.' %}
+      {% render 'summary-box.html', title: '', body: '<b>Data governance:</b> Policies, processes, and decisions that dictate how data can be managed and used. Key to data governance are consideration of data security and individual privacy.<br><br><b>Data governance rules:</b> Rules that express requirements for data access, sharing, linkage, use and dissemination.' %}
     </div>
   </div>      
 </section>
@@ -71,7 +71,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 
     </div>
     <div class="grid-col-4">
-      {% render 'summary-box.html', title: '', body:'<b>Investigators:</b> individuals responsible for the design, conduct, reporting, and scientific and ethical integrity of a research study. Investigators play a critical role ensuring the research is compliant with laws, regulations, and policies.' %}
+      {% render 'summary-box.html', title: '', body:'<b>Investigators:</b> Individuals responsible for the design, conduct, reporting, and scientific and ethical integrity of a research study. Investigators play a critical role ensuring the research is compliant with laws, regulations, and policies.' %}
     </div>
   </div>      
 </section>
@@ -92,7 +92,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 
     </div>
     <div class="grid-col-4">
-      {% render 'summary-box.html', title: '', body:'<b>Dataset holders:</b> entities with the authority to make decisions about the access, sharing, linkage, and use of specific datasets.' %}
+      {% render 'summary-box.html', title: '', body:'<b>Dataset holders:</b> Entities with the authority to make decisions about the access, sharing, linkage, and use of specific datasets.' %}
           </div>
   </div>      
 </section>

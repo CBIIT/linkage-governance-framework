@@ -15,7 +15,7 @@ This set of resources provides context for the Linkage Governance Framework and 
 
 ## Framework Playbook{#playbook}
 
-The Playbook is a practical guide for understanding and using the {% glossary "common_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
+The Playbook is a practical guide for understanding and using the {% glossary "linkage_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
 
 You may download the <a href="#">latest version of the Playbook</a>, a detailed description of how the Linkage Governance Framework can be put into practice.
 
