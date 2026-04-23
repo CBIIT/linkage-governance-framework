@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: Linkage Governance Framework
-layout: layouts/default
+layout: layouts/home
 nav: cgf
 eleventyNavigation:
   key: cgf

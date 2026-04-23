@@ -1,8 +1,4 @@
 {
-  "common_governance_framework": {
-    "term": "Common Governance Framework",
-    "definition": "An approach for harmonizing governance rules across datasets for approval."
-  },
   "complex_linkages": {
     "term": "Complex Linkages",
     "definition" : "Linkage of individual-level health data for research where establishing the linkages entails a high level of governance complexity."
@@ -14,6 +10,10 @@
   "coordinating_body": {
     "term" : "Coordinating Body",
     "definition" : "The entity that operates the Common Governance Framework with both strategic and operational governance responsibilities to lead the Common Governance Process."
+  },
+  "linkage_governance_framework": {
+    "term": "Linkage Governance Framework",
+    "definition": "An approach for harmonizing governance rules across datasets for approval."
   },
   "requesting_institution": {
     "term": "requesting institution",
