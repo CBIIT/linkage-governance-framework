@@ -5,6 +5,7 @@ permalink: /userstories/
 layout: layouts/page
 nav: cgf
 tags: cgf
+date: 2026-04-01
 eleventyNavigation:
   parent: cgf-userstories
   key: cgf-userstories-main
@@ -21,7 +22,6 @@ The Linkage Governance Framework is conceptual, creating a vision of the future 
 
   {% for story in collections.userstory %}
     <h2><a href="{{ story.url}}"> {{story.data.title}}</a></h2>
-    <h3>{{store.data.subtitle}}</h3>
     <p>{{ story.data.description }}</p>
 
   {% endfor %}

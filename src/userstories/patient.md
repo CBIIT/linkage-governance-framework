@@ -8,6 +8,7 @@ section: userstories
 nav: cgf
 tags:
   - userstory
+date: 2026-04-03
 eleventyNavigation:
   parent: cgf-userstories
   key: userstory-3

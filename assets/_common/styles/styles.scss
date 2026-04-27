@@ -36,10 +36,12 @@ USWDS Source
 /*---------------------------------------------------------
 Custom styling
 ----------------------------------------------------------*/
-.usa-prose > p {max-width:96ex}
-.img96ex {max-width:96ex;width:100%}
+.usa-prose > p {max-width:108ex}
+
+.img100 {width:100%}
+
 .imgc50 {margin:0 auto;max-width:48ex;display:block}
-.site-logo {height:100px}
+
 .inline-logo {position:relative;top:5px}
 
 ul.framework-element-list {
@@ -58,9 +60,17 @@ ul.framework-element-list {
   }
 }
 
-
 .usa-section {
   padding-top:2em;
+}
+
+#hero {
+  background-image: url(../_img/lines-and-nodes.png);
+  background-position:top right;
+  color:white;
+  .faded-background {
+    background:linear-gradient(90deg, rgba(0, 20, 60, .3) 0%, rgba(0, 42, 93, 0) 100%);
+  }
 }
 
 .site-page-navigation {
@@ -164,8 +174,14 @@ figcaption.minor {
 .grid-container .section .grid-col-4 {
   padding-left:1em;
 }
+@media all and (min-width: 64em) {
+.usa-logo {background-color:#fff;
+}
+}
+
 @media screen and (max-width: 63.99em) {
 .usa-header { margin-top:2em}
+#hero {margin-top:2em;}
 }
 @media screen and (max-width: 1023px) {
   .usa-prose > ul, .usa-prose > ol {

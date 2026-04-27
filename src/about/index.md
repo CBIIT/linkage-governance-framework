@@ -23,4 +23,4 @@ The resulting Linkage Governance Framework is intended to help researchers and d
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'Home', nextUrl:'/' %} 
+{% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'Home', nextUrl:'/' %}
