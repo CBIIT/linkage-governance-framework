@@ -18,14 +18,12 @@ sticky_sidenav: true
 
 # Rule Harmonization
 
-The Rule Harmonization process provides a well-structured method for coordinating data linkage requests from investigators and their requesting institution and the dataset holders. The coordinating body works with dataset holders to distill the data linkage rules to a consolidated rule set which is applicable to the linkage request.
+Rule harmonization is the third and final stage of the Common Governance Process and it provides a structured method to align and integrate governance rules across datasets. The coordinating body works with dataset holders to gather governance sources, inventory applicable data governance rules, align rules across datasets, remediate overlapping and conflicting rules, and propose a consolidated rule set to dataset holders for consideration. 
 
 <figure>
 {% image_with_class "assets/resources/img/vm-rule-harmonization.png" "img96ex" "Diagram of Rule Harmonization Process" %}
 <figcaption class="minor">Diagram of the Rule Harmonization Process</figcaption>
 </figure>
-
-In the case of overlapping or conflicting data linkage rules, harmonized rules are proposed for acceptance by the dataset holders. When all dataset holders agree the requested data linkages are acceptable under the Consolidated Rule Set, the investigator reviews to determine if their research can proceed under the accepted rule set.
 
 
 

@@ -28,7 +28,7 @@ Some linkages of individual-level health data are happening today. For example, 
     </div>
     <div class="grid-col-4">
 
-      {% render 'summary-box.html', title: '', body: '<b>Patient-centered outcomes research:</b> Research that aims to generate high-quality evidence about the effectiveness of treatments, services, and other health care interventions on the full range of outcomes that patients, caregivers, clinicians, policymakers, and other stakeholders have identified as important.' %}
+      {% render 'summary-box.html', title: '', body: '<b><a href="https://aspe.hhs.gov/collaborations-committees-advisory-groups/os-pcortf">Patient-centered outcomes research</a>:</b> Research that aims to generate high-quality evidence about the effectiveness of treatments, services, and other health care interventions on the full range of outcomes that patients, caregivers, clinicians, policymakers, and other stakeholders have identified as important.' %}
           </div>
   </div>    
 
