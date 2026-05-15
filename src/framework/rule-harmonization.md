@@ -25,5 +25,9 @@ Rule harmonization is the third and final stage of the Common Governance Process
 <figcaption class="minor">Diagram of the Rule Harmonization Process</figcaption>
 </figure>
 
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Common Governance Process', prevUrl:'/framework/common-governance-process.html' %}   
+
 
 

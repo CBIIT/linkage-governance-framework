@@ -18,7 +18,7 @@ sticky_sidenav: true
 
 # Common Governance Process
 
-The Common Governance Process is a step-by-step implementation of the Linkage Governance Framework. It is a new approach to streamline requests for complex linkage of individual-level health data while preserving dataset holder’s decision making authority. The process streamlines investigators’ efforts to request complex linkages, clarifies applicable governance rules, and generates decisions sooner.     
+The Common Governance Process is a step-by-step implementation of the Linkage Governance Framework. It is a new approach to streamline requests for complex linkage of individual-level health data while preserving dataset holder’s decision making authority. The process streamlines investigators’ efforts to request complex linkages, clarifies applicable governance rules, and generates decisions sooner. View a diagram of where the [Common Governance Process](/framework/cgp-diagram.html) is within the research lifecycle.   
  
 The Common Governance Process is organized into three stages: 
 
