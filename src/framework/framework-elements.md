@@ -29,3 +29,8 @@ The Framework elements are:
 - **4. Governance Decisions** that are made within the process to achieve the framework’s objectives.{.icon-gavel}
 - **5. Continuous Improvement** to increase governance effectiveness through structured feedback to refine and enhance the framework over time.{.icon-improvement}
 {.framework-element-list}
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Framework', prevUrl:'/framework' %}   
+
