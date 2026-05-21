@@ -1,5 +1,7 @@
 CONTRIBUTING.md
 LICENSE.md
+LICENSE
+NOTICE.md
 README.md
 SECURITY.md
 COMMUNITY.md
@@ -8,4 +10,3 @@ LINKING_POLICY.md
 code.json
 .github
 config
-docs

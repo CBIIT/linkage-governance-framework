@@ -80,7 +80,7 @@ esbuild
     },
     minify: process.env.ELEVENTY_ENV === 'production',
     sourcemap: process.env.ELEVENTY_ENV !== 'production',
-    target: ['chrome58', 'firefox57', 'safari11', 'edge18'],
+    target: ['chrome58', 'firefox57', 'safari15', 'edge18'],
     plugins: [
       sassPlugin({
         loadPaths: [

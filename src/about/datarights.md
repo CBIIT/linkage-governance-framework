@@ -6,7 +6,7 @@ layout: layouts/page
 nav: cgf
 
 ---
-# <p align='center'>NOTICE</p>
+# NOTICE{.text-center}
 
 This software was produced for the U. S. Government under Contract Number 75FCMC23D0004, and is subject to Federal Acquisition Regulation Clause 52.227-14, Rights in Data-General.  
 
@@ -18,4 +18,4 @@ For further information, please contact The MITRE Corporation, Contracts Managem
 
 Approved for Public Release; Distribution Unlimited. Public Release Case Number: 26-0587 
 
-### <p align='center'>**ⓒ2026 The MITRE Corporation.**</p>
+### **ⓒ2026 The MITRE Corporation.**{.text-center}

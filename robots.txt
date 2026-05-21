@@ -1,0 +1,5 @@
+Sitemap: https://cbiit.github.io/linkage-governance-framework/sitemap.xml
+
+User-agent: *
+Allow: /
+Crawl-delay: 10
