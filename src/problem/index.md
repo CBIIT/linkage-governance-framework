@@ -37,7 +37,7 @@ Some linkages of individual-level health data are happening today. For example, 
 
 # &hellip; but rich, complex data linkage can be challenging.
 
-Some challenges to linking datasets are technical. This framework focuses on governance challenges. 
+Some challenges to linking datasets are technical. This framework focuses on governance challenges.
 
 Each dataset has its own unique governance rules. While there are typically many commonalities between datasets’ governance, datasets may have governance rules that conflict or may implement similar governance rules in different ways.
 

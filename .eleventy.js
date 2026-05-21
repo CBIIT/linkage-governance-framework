@@ -5,6 +5,8 @@ const footnote_plugin = require('markdown-it-footnote');
 const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
 const markdownItDeflist = require("markdown-it-deflist");
+const { htmlDateString } = require("./config/filters");
+
 
 const markdownItOptions = {
   html: true,
@@ -62,6 +64,7 @@ module.exports = function(config) {
   config.addFilter('imageUrl', (imageSource) => {
     return imageUrl(imageSource);
   });
+  config.addFilter('htmlDateString', htmlDateString);
 
   // Set image shortcodes
   config.addLiquidShortcode('image', imageShortcode);
