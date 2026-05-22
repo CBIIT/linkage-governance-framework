@@ -37,6 +37,7 @@ The Linkage Governance Framework is a new model for governance that addresses th
 # The Rationale for a Linkage Governance Framework
   <div class="grid-row">
     <div class="grid-col-8">
+    
 Safe and secure patient-guided research can be delayed by rules and processes that are unclear, slow and duplicative. This framework was inspired by [the challenges](/problem) that arise when research investigators need to work with multiple dataset holder organizations to access, link and study data:
 
 - Investigators and requesting institutions require substantial up-front effort to coordinate their requests across multiple organizations 
