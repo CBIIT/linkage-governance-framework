@@ -61,6 +61,16 @@ This framework differs from the current state of governance for linkage by intro
 - Synchronizing review processes across dataset holders 
 - Launching a collaborative process to harmonize governance rules with dataset holders
 
+
+<div class="usa-alert usa-alert--success margin-top-5 margin-bottom-5">
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Join the Effort!</h4>
+    
+Explore the Playbook, [connect with us](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#114;&#97;&#110;&#103;&#101;&#114;&#46;&#115;&#117;&#116;&#116;&#111;&#110;&#64;&#110;&#105;&#104;&#46;&#103;&#111;&#118;) for questions or collaboration opportunities, and follow this site for continued updates.
+
+  </div>
+</div>
+
 ----- 
 
 {% render 'callout.html', title: 'Acknowledgement', body:'Framework development was funded by the <a href="https://aspe.hhs.gov/collaborations-committees-advisory-groups/os-pcortf">Office of the Secretary Patient-Centered Outcomes Research Trust Fund</a> (OS-PCORTF), whose mission is to build and strengthen data capacity for patient-centered outcomes research through coordination across agencies and federal programs.' %}
