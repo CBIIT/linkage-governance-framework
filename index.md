@@ -56,7 +56,7 @@ The Linkage Governance Framework was developed to help investigators, requesting
 
 This framework differs from the current state of governance for linkage by introducing the following innovation:
 
-- Creating a neutral coordinating body to be the interface between investigators, requesting institutions and dataset holders 
+- Creating a neutral coordinating body to be the interface between investigators, requesting institutions, and dataset holders 
 - Simplifying the process for investigators to propose linkage of multiple datasets 
 - Synchronizing review processes across dataset holders 
 - Launching a collaborative process to harmonize governance rules with dataset holders
@@ -73,7 +73,7 @@ Explore the Playbook, [connect with us](&#109;&#97;&#105;&#108;&#116;&#111;&#58;
 
 ----- 
 
-{% render 'callout.html', title: 'Acknowledgement', body:'Framework development was funded by the <a href="https://aspe.hhs.gov/collaborations-committees-advisory-groups/os-pcortf">Office of the Secretary Patient-Centered Outcomes Research Trust Fund</a> (OS-PCORTF), whose mission is to build and strengthen data capacity for patient-centered outcomes research through coordination across agencies and federal programs.' %}
+{% render 'callout.html', title: 'Acknowledgement', body:'This work is part of a <a href="https://aspe.hhs.gov/creating-new-data-research-environment">project</a> funded through <a href="https://aspe.hhs.gov/collaborations-committees-advisory-groups/os-pcortf">The Assistant Secretary for Planning and Evaluation (ASPE) Office of The Secretary Patient-Centered Outcomes Research Trust Fund</a> (OS-PCORTF). The OS-PCORTF was established as part of the 2010 Patient Protection and Affordable Care Act and is charged to build data capacity for patient-centered outcomes research. Coordinated by ASPE on behalf of the Department, OS-PCORTF has funded a rich portfolio of projects to meet emerging U.S. Department of Health and Human Services (HHS) policy priorities and fill gaps in data infrastructure to enhance capabilities to collect, link, and analyze data for patient-centered outcomes research.' %}
 
 ----- 
 
