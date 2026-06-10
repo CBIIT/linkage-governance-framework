@@ -3,6 +3,8 @@ title: "Sharon and her caregiver Tori"
 subtitle: "Seeking Research for Better Treatment"
 description: 'Sharon is a cancer patient who consented for her data to be used in research. Sharon and her caregiver would like to know more about the research use of her data.'
 permalink: /userstories/patient.html
+story_image: 'assets/resources/img/patient-story.png'
+story_image_alt: 'Illustration of Sharon, seated across from clinician'
 layout: layouts/page
 section: userstories
 nav: cgf
@@ -18,7 +20,9 @@ sidenav: true
 sticky_sidenav: true
 ---
 
-# Sharon and her caregiver Tori: Seeking Research for Better Treatment
+{% image_with_class story_image "img48" story_image_alt %}
+
+# Sharon and her caregiver Tori: Seeking research for better treatment
 
 Tori never thought much about data linkage and biomedical research until his sister Sharon was diagnosed with a rare type of leukemia. Tori has advocated tirelessly to help Sharon receive the best care. As Sharon’s cancer has gone in and out of remission, however, their frustration at the limited research and treatment options has grown. Tori supported Sharon’s decision to participate in clinical trials in hopes that this may change for other leukemia patients, including a study by Sharon’s oncologist Dr. Cho: a few years ago, Sharon was approached to participate in a study. The study consent form included permission for her de-identified individual-level health data collected in Dr. Cho’s research  to be used in other studies.
 
@@ -30,4 +34,4 @@ During the first advisory council meeting, Tori learned about the Linkage Govern
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Investigator', prevUrl:'/userstories/investigator.html', nextTitle: 'Resources', nextUrl:'/resources' %} 
+{% render 'pagenavigation.html', prevTitle: 'Dataset Holder', prevUrl:'/userstories/dataset-holder.html', nextTitle: 'Resources', nextUrl:'/resources' %} 

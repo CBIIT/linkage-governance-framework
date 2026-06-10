@@ -41,7 +41,8 @@ Custom styling
 .img100 {width:100%}
 
 .imgc50 {margin:0 auto;max-width:48ex;display:block}
-
+.img48 {margin:5ch 0; max-width:48ex;display:block}
+.card-white {background-color:white}
 .inline-logo {position:relative;top:5px}
 
 ul.framework-element-list {
@@ -137,7 +138,11 @@ img.actor-icon {
   float:right;
   padding:10px 20px 20px 10px;
 }
-
+img.resource-preview {
+  width:16ch;
+  float:left;
+  margin:0 2ch 2ch 0;
+}
 figcaption.minor {
   text-align:center;
   font-size:0.9rem;

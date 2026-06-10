@@ -1,8 +1,10 @@
 ---
-title: "Leslie the Investigator"
+title: "Leslie the investigator"
 subtitle: "Seeking Complex Linkage to Enable Innovative Research"
 description: 'Leslie is an early stage investigator. She is seeking approval for a complex linkage study to study Lyme disease and cancer.'
 permalink: /userstories/investigator.html
+story_image: 'assets/resources/img/investigator-story.png'
+story_image_alt: 'Illustration of Leslie the investigator, standing at desk'
 layout: layouts/page
 section: userstories
 nav: cgf
@@ -18,7 +20,9 @@ sidenav: true
 sticky_sidenav: true
 ---
 
-# Leslie the Investigator: Seeking Complex Linkage to Enable Innovative Research{ #investigator} 
+{% image_with_class story_image "img48" story_image_alt %}
+
+# Leslie the investigator: Seeking complex linkage to enable innovative research{ #investigator} 
 
 Leslie is an early stage investigator. As a postdoc, Leslie was part of a study team that used data linked from two datasets to study Lyme disease. Since launching her own lab, Leslie’s theories about Lyme disease have continued to evolve. She has a new hypothesis about Lyme disease and cancer that she would like to advance with a data linkage study. To accomplish this, she will need to link data from three separate datasets. Leslie remembers the challenges of data linkage from just two datasets during her postdoctoral research: each dataset’s access request process required much of the same information, but in different formats and at different moments, which was time consuming to submit. The team had to change their linkage study plans because the optimal datasets to link had different linkage requirements and the investigator could not get the dataset holders to come to agreement that would allow the study to proceed.
 
@@ -38,4 +42,4 @@ The process was much easier and faster for Leslie and her institution. The coord
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Dataset Holder', prevUrl:'/userstories/dataset-holder.html', nextTitle: 'Patient', nextUrl:'/userstories/patient.html' %}   
+{% render 'pagenavigation.html', prevTitle: 'User Stories', prevUrl:'/userstories', nextTitle: 'Dataset Holder', nextUrl:'/userstories/dataset-holder.html' %}   
