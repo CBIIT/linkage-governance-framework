@@ -1,8 +1,10 @@
 ---
-title: "Noah the Dataset Holder"
+title: "Noah the dataset holder"
 subtitle: "Making Data Linkage Accessible for Researchers"
 description: 'Noah works at a federal agency that manages multiple repositories with a range of datasets about cancer. He would like to make it easier for researchers to link data for research.'
 permalink: /userstories/dataset-holder.html
+story_image: "assets/resources/img/dataset-holder-story.png"
+story_image_alt: 'Illustration of Noah the dataset holder, seated at desk in office'
 layout: layouts/page
 section: userstories
 nav: cgf
@@ -18,7 +20,10 @@ sidenav: true
 sticky_sidenav: true
 ---
 
-# Noah the Dataset Holder: Making Data Linkage Accessible for Researchers
+
+{% image_with_class story_image "img48" story_image_alt %}
+        
+# Noah the dataset holder: Making data linkage accessible for researchers
 
 Noah works at a federal agency that manages multiple repositories with a range of datasets about cancer. Every day Noah reviews data requests from researchers and approves or denies data access. He wishes the data could be used more broadly to advance his agency’s mission and biomedical research. Noah knows that data linkage is critical for driving research innovation but that it is difficult, time-consuming, and expensive for investigators to navigate. Even the most experienced investigators and institutions found it challenging to negotiate data linkage with different dataset holders. When Noah receives access requests for linkage, it takes more information from investigators and time to make a decision about access. Many of his agency’s policies don’t give clear guidance regarding linkage and his compliance colleagues often express concern about the risks of allowing data to be linked. Many requests for linkage are end up denied. Noah would like to make it easier for researchers to link data for research but doesn’t know how to without making his own job harder.  
 
@@ -35,4 +40,4 @@ The coordinating body brought Noah and the other dataset holders together to rev
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'User Stories', prevUrl:'/userstories', nextTitle: 'Investigator', nextUrl:'/userstories/investigator.html' %}   
+{% render 'pagenavigation.html', prevTitle: 'Investigator', prevUrl:'/userstories/investigator.html', nextTitle: 'Patient', nextUrl:'/userstories/Patient.html' %}   

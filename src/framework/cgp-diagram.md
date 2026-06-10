@@ -11,7 +11,7 @@ eleventyNavigation:
   parent: cgf-framework-main
   key: cgp-diagram
   order: 3
-  title: CGP Diagram
+  title: Research Lifecycle
 sidenav: true
 sticky_sidenav: true
 ---
