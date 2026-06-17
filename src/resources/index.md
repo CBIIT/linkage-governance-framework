@@ -33,9 +33,9 @@ Process Standards (PDF - 284 KB)</a>
 
 ## Request Package Overview{#request-package .resource-title}
 
-This overview explains what a Request Package is, why it is needed, and how investigators and requesting institutions prepare and submit it. It walks through the information to gather, the steps to complete the package, and practical tips to make submission smoother and more efficient.
+<a href="assets/resources/docs/Request_Package_Overview_061626_POSTED.pdf" download="Request_Package_Overview_061626_POSTED.pdf" target="_blank" title="Download request package overview">{% image_with_class "assets/resources/img/RequestPackageOverview.jpg" "resource-preview" "Image of request package overview cover" %}</a>This overview explains what a Request Package is, why it is needed, and how investigators and requesting institutions prepare and submit it. It walks through the information to gather, the steps to complete the package, and practical tips to make submission smoother and more efficient.
 
-**Download:** Coming soon!
+**Download:** <a href="assets/resources/docs/Request_Package_Overview_061626_POSTED.pdf" download="Request_Package_Overview_061626_POSTED.pdf" target="_blank">Request Package Overview (PDF - 412 KB)</a>
 
 {% # You may download a <a href="#">sample Request Package</a> to see what an investigator at a requesting institution would submit to request access and linkage of datasets. %}
 
