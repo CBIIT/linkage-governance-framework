@@ -53,7 +53,7 @@ module.exports = function(config) {
 
   // Set download paths
   // Place files for download in assets/{guide}/dist/{filename.ext}
-  config.addPassthroughCopy("./assets/**/docs/*");
+  config.addPassthroughCopy({"./assets/**/docs/*": './docs'});
 
   // Allow yaml to be used in the _data dir
   config.addDataExtension("yaml", contents => yaml.load(contents));
