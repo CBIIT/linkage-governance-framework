@@ -25,6 +25,8 @@ The Common Governance Process fits into the research lifecycle, during the proje
 <figcaption class="minor">Diagram of the Common Governance Process in the Research Lifecycle</figcaption>
 </figure>
 
+**Download:** <a href="/docs/CGPResearchLifecycle.pdf" download="CGPResearchLifecycle.pdf" target="_blank">Common Governance Process in Research Lifecycle (PDF - 30 KB)</a>
+
 -----
 
 {% render 'pagenavigation.html', prevTitle: 'Common Governance Process', prevUrl:'/framework/common-governance-process.html' %}   
