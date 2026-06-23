@@ -16,6 +16,6 @@ To the extent necessary MITRE hereby grants express written permission to use, r
 
 For further information, please contact The MITRE Corporation, Contracts Management Office, 7515 Colshire Drive, McLean, VA  22102-7539, (703) 983-6000.  
 
-Approved for Public Release; Distribution Unlimited. Public Release Case Number: 26-0587 
+Approved for Public Release; Distribution Unlimited.<br>Public Release Case Number: 26-0587 
 
-### **ⓒ2026 The MITRE Corporation.**{.text-center}
+### **ⓒ 2026 The MITRE Corporation.**{.text-center}
