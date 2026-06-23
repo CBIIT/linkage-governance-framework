@@ -1,14 +1,4 @@
 <!-- Pull in USWDS and custom js -->
 <script async src="{{ assetPaths['app.js'] }}"></script>
 
-{% if site.ga.ua %}
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', '{{ site.ga.ua }}', { 'anonymize_ip': true });
-</script>
-{% endif %}
 
