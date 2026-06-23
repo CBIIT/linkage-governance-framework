@@ -21,6 +21,10 @@ NCI engaged the U.S. Department of Health and Human Services’ federally funded
 
 The resulting Linkage Governance Framework is intended to help researchers and dataset holders decide when datasets can be linked and what rules and controls must apply to the resulting linked data.
 
+ⓒ 2026 The MITRE Corporation.
+Approved for Public Release; Distribution Unlimited. Public Release Case Number: 26-0587 
+[Data Rights Notice](/about/datarights.html) {.font-body-xs}
+
 -----
 
 {% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'Home', nextUrl:'/' %}
