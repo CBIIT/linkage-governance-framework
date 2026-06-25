@@ -18,7 +18,7 @@ sticky_sidenav: true
 
 <section>
   <div class="grid-row">
-    <div class="grid-col-8">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-7 tablet-lg:grid-col-8">
 
 People usually have health data held in multiple systems. Examples of this individual-level health data include clinical data from an electronic health record (EHR), claims from a health insurer, data from wearables, and data collected during research studies. Making sure these data are reliably available and transformed into actionable evidence through research is essential for patient-centered outcomes research. Importantly, a person's data should only be used as permitted by their consent and in a way that assures their privacy is protected.
 
@@ -26,14 +26,15 @@ When individual-level health data from different datasets can be matched and lin
 
 Some linkages of individual-level health data are happening today. For example, the [_All of Us_ Research Program](https://www.researchallofus.org) asks permission from its participants to link data from EHRs, surveys, and genomic repositories for research. Hundreds of studies have used the _All of Us_ linked data for scientific breakthroughs. However, most datasets have never been linked and many promising safe and appropriate linkages remain out of reach.  
     </div>
-    <div class="grid-col-4">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-5 tablet-lg:grid-col-4">
 
       {% render 'summary-box.html', title: '', body: '<b><a href="https://aspe.hhs.gov/collaborations-committees-advisory-groups/os-pcortf">Patient-centered outcomes research</a>:</b> Research that aims to generate high-quality evidence about the effectiveness of treatments, services, and other health care interventions on the full range of outcomes that patients, caregivers, clinicians, policymakers, and other stakeholders have identified as important.' %}
-          </div>
+      
+    </div>
   </div>    
 
   <div class="grid-row">
-    <div class="grid-col-8">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-7 tablet-lg:grid-col-8">
 
 # &hellip; but rich, complex data linkage can be challenging.
 
@@ -44,7 +45,7 @@ Each dataset has its own unique governance rules. While there are typically many
 Complex linkages arise when various aspects of data governance make the data linkage especially difficult. For example, linking three or more datasets is complex because of the challenges blending the governance of three different datasets. 
  
     </div>
-    <div class="grid-col-4">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-5 tablet-lg:grid-col-4">
 
       {% render 'summary-box.html', title: '', body: '<b>Data governance:</b> Policies, processes, and decisions that dictate how data can be managed and used. Key to data governance are consideration of data security and individual privacy.<br><br><b>Data governance rules:</b> Rules that express requirements for data access, sharing, linkage, use and dissemination.' %}
     </div>
@@ -60,7 +61,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 ## Investigators
 
   <div class="grid-row">
-    <div class="grid-col-8">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-7 tablet-lg:grid-col-8">
 
 {% image_with_class "assets/resources/img/investigator.png" "actor-icon" "Icon of Investigator" %} For investigators, governance processes are often fragmented, requiring time-consuming and duplicative work, and they can wait a long time for answers. Challenges can include:
 
@@ -70,7 +71,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 - Conflicting governance rules may make linkage impossible without a way to reconcile the conflicts.
 
     </div>
-    <div class="grid-col-4">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-5 tablet-lg:grid-col-4">
       {% render 'summary-box.html', title: '', body:'<b>Investigators:</b> Individuals responsible for the design, conduct, reporting, and scientific and ethical integrity of a research study. Investigators play a critical role ensuring the research is compliant with laws, regulations, and policies.' %}
     </div>
   </div>      
@@ -82,7 +83,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 ## Dataset Holders
 
   <div class="grid-row">
-    <div class="grid-col-8">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-7 tablet-lg:grid-col-8">
 
 {% image_with_class "assets/resources/img/dataset-holder.png" "actor-icon" "Icon of dataset holder" %}  Dataset holders are responsible for ensuring compliance with the  rules about access and use of their dataset. Complex data linkages create unique challenges for them:
 
@@ -91,7 +92,7 @@ Investigators and dataset holders share a common goal to use data linkages to dr
 - Time and effort needed to modify existing processes to respond to complex requests
 
     </div>
-    <div class="grid-col-4">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-5 tablet-lg:grid-col-4">
       {% render 'summary-box.html', title: '', body:'<b>Dataset holders:</b> Entities with the authority to make decisions about the access, sharing, linkage, and use of specific datasets.' %}
           </div>
   </div>      
