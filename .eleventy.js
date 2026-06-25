@@ -39,6 +39,8 @@ module.exports = function(config) {
   
   // Copy the robots.txt file to the output
   config.addPassthroughCopy('robots.txt');
+  // Passthrough Google Search verification file
+  config.addPassthroughCopy('google02f68cf124ee304f.html');
 
   // Copy USWDS init JS so we can load it in HEAD to prevent banner flashing
   config.addPassthroughCopy({'./node_modules/@uswds/uswds/dist/js/uswds-init.js': 'assets/js/uswds-init.js'});
