@@ -36,16 +36,20 @@ The Linkage Governance Framework is a new model for governance that addresses th
 
 # The Rationale for a Linkage Governance Framework
   <div class="grid-row">
-    <div class="grid-col-8">
+    <div class="mobile-lg:grid-col-12 tablet:grid-col-7 tablet-lg:grid-col-8">
     
 Safe and secure patient-guided research can be delayed by rules and processes that are unclear, slow and duplicative. This framework was inspired by [the challenges](/problem) that arise when research investigators need to work with multiple dataset holder organizations to access, link and study data:
 
-- Investigators and requesting institutions require substantial up-front effort to coordinate their requests across multiple organizations 
+- Investigators and requesting institutions require substantial up-front effort to coordinate their requests across multiple organizations
+
 - Dataset holders vary widely in the information they require for a data access request, including for linkage, leading to a lot of time-consuming iterations with investigators
+
 - Review processes are sequenced differently so that investigators must coordinate multiple asynchronous processes  
-- Investigators may learn too late that conflicting governance rules make linkage impossible with no clear way to reconcile these conflicts  
+
+- Investigators may learn too late that conflicting governance rules make linkage impossible with no clear way to reconcile these conflicts
+
     </div>
-    <div class="grid-col-4">
+    <div class="mobile-lg:grid-col:12 tablet:grid-col-5 tablet-lg:grid-col-4">
       {% render 'summary-box.html', title: '', body: '<b>Data governance:</b> Policies, processes, and decisions that dictate how data can be managed and used. Key to data governance are consideration of data security and individual privacy.<br><br><b>Data governance rules:</b> Rules that express requirements for data access, sharing, linkage, use and dissemination.' %}
           </div>
   </div>
