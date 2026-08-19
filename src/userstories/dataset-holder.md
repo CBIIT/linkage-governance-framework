@@ -1,5 +1,5 @@
 ---
-title: "Noah the dataset holder"
+title: "Noah the Dataset Holder"
 subtitle: "Making Data Linkage Accessible for Researchers"
 description: 'Noah works at a federal agency that manages multiple repositories with a range of datasets about cancer. He would like to make it easier for researchers to link data for research.'
 permalink: /userstories/dataset-holder.html
@@ -23,9 +23,9 @@ sticky_sidenav: true
 
 {% image_with_class story_image "img48" story_image_alt %}
         
-# Noah the dataset holder: Making data linkage accessible for researchers
+# Noah the Dataset Holder: Making data linkage accessible for researchers
 
-Noah works at a federal agency that manages multiple repositories with a range of datasets about cancer. Every day Noah reviews data requests from researchers and approves or denies data access. He wishes the data could be used more broadly to advance his agency’s mission and biomedical research. Noah knows that data linkage is critical for driving research innovation but that it is difficult, time-consuming, and expensive for investigators to navigate. Even the most experienced investigators and institutions found it challenging to negotiate data linkage with different dataset holders. When Noah receives access requests for linkage, it takes more information from investigators and time to make a decision about access. Many of his agency’s policies don’t give clear guidance regarding linkage and his compliance colleagues often express concern about the risks of allowing data to be linked. Many requests for linkage are end up denied. Noah would like to make it easier for researchers to link data for research but doesn’t know how to without making his own job harder.  
+Noah works at a federal agency that manages multiple repositories with a range of datasets about cancer. Every day Noah reviews data requests from researchers and approves or denies data access. He wishes the data could be used more broadly to advance his agency’s mission and biomedical research. Noah knows that data linkage is critical for driving research innovation but that it is difficult, time-consuming, and expensive for investigators to navigate. Even the most experienced investigators and institutions found it challenging to negotiate data linkage with different dataset holders. When Noah receives access requests for linkage, it often time and repeated iterations with the investigator to obtain the information necessary to make a decision about access. Many of his agency’s policies don’t give clear guidance regarding linkage and his compliance colleagues often express concern about the risks of allowing data to be linked. Many requests for linkage end up denied. Noah would like to make it easier for researchers to link data for research but doesn’t know how to without making his own job harder.  
 
 Noah was excited to learn the data he stewards would be part of a new Linkage Governance Framework meant to address the data linkage governance challenges. Noah received Leslie’s request to link one of the datasets Noah oversees to two other datasets. Noah was skeptical that the three dataset holders could find a way to align their governance, but he was interested to try.  He worked with the coordinating body and other dataset holders, and found it to facilitate his role:
 

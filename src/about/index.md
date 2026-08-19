@@ -27,4 +27,4 @@ Approved for Public Release; Distribution Unlimited. Public Release Case Number:
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'Home', nextUrl:'/' %}
+{% render 'pagenavigation.html', prevTitle: 'Glossary', prevUrl:'/glossary', nextTitle: 'Home', nextUrl:'/' %}

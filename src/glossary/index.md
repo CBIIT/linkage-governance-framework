@@ -138,3 +138,7 @@ Rule Harmonization
 : A structured process to align and reconcile governance rules across multiple datasets and create a single consolidated rule set for managing a linked dataset.
 
 <a href="#main-content">Back to top</a>
+
+-----
+
+{% render 'pagenavigation.html', prevTitle: 'Resources', prevUrl:'/resources', nextTitle: 'About', nextUrl:'/about' %}

@@ -51,4 +51,4 @@ The Linkage Governance Framework is conceptual, creating a vision of the future 
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Framework Playbook', prevUrl:'/framework/playbook.html', nextTitle: 'Investigator', nextUrl:'/userstories/investigator.html' %}   
+{% render 'pagenavigation.html', prevTitle: 'Playbook', prevUrl:'/framework/playbook.html', nextTitle: 'Investigator', nextUrl:'/userstories/investigator.html' %}   

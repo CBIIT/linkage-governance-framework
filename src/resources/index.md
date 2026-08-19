@@ -47,6 +47,14 @@ Process Standards (PDF - 284 KB)</a>
 
 {.clearfix}
 
+## Linkage Request Planning Workbook{#linkage-request-planning-workbook .resource-title}
+
+<a href="/docs/Linkage_Request_Planning_Workbook_final.xlsx" download="Linkage_Request_Planning_Workbook_final.xlsx" target="_blank" title="Download request planning workbook">{% image_with_class "assets/resources/img/LinkageRequestPlanningWorkbook.png" "resource-preview" "Image of request planning workbook spreadsheet" %}</a>This Excel workbook is a tool for gathering and compiling all of the information that may be required when completing multiple requests to access data for individual-level linkage in research. It outlines what types of information may be needed and what specific questions an investigator or requesting institution may have to answer. It also functions as a tool to compile all of that information for investigator or other study team members to use when filling out various forms or applications.   
+
+**Download:** <a href="/docs/Linkage_Request_Planning_Workbook_final.xlsx" download="Linkage_Request_Planning_Workbook_final.xlsx" target="_blank">Linkage Request Planning Workbook (XLSX - 49 KB)</a>
+
+{.clearfix}
+
 ## Rule Harmonization Protocol{#rule-harmonization .resource-title}
 
 <a href="/docs/Rule_Harmonization_6_18_26_POSTED.pdf" download="Rule_Harmonization_6_18_26_POSTED.pdf" target="_blank" title="Download rrule harmonization protocol">{% image_with_class "assets/resources/img/RuleHarmonizationCover.jpg" "resource-preview" "Image of rule harmonization protocol cover" %}</a>This step-by-step protocol is a procedural guide for comparing, organizing, and aligning governance rules across multiple datasets. It shows how to inventory rules, classify where they overlap or conflict, and create one consolidated rule set that everyone can follow when using linked data.
@@ -55,6 +63,30 @@ Process Standards (PDF - 284 KB)</a>
 
 {.clearfix}
 
+## Related Linkage Work{#related-linkage-work .resource-title}
+
+This project is not the only linkage governance work happening. The related resources below complement the Linkage Governance Framework. If you are aware of other projects or resources that should be added here, {% render "connect-mail-link.html", link_text:"let us know" %}. 
+
+The _Eunice Kennedy Shriver_ National Institute for Child Health and Human Development (NICHD) Office of Data Science and Sharing (ODSS) developed frameworks and tools to support responsible individual-level record linkage for research with NICHD populations.
+
+<div class="margin-left-5">
+
+### [NICHD Data Linkage Governance Metadata Schema](https://github.com/NIH-NICHD/Data-Linkage-Governance)
+
+NICHD ODSS, supported by MITRE, developed a generalizable, scalable, and machine-readable data governance metadata schema that simplifies decision-making for the responsible linkage of datasets for patient-centered outcomes research.  
+
+
+### [NICHD Record Linkage Implementation Checklist](https://github.com/NIH-NICHD-Ecosystem/E2_Record-Linkage-Implementation-Checklist/)
+
+NICHD ODSS created the Record Linkage Implementation Checklist to provide guidance for decisions that must be made prior to designing and implementing a strategy for linking data from multiple sources and sharing and using the linked datasets for research. The checklist encourages funders, researchers, data repositories, and other stakeholders to collaborate to make a series of governance and technical decisions and was developed based on findings from an assessment of existing record linkage implementations. 
+
+### NICHD AI Rules Analysis
+
+NICHD ODSS conducted an analysis of how biomedical data protection obligations may conflict with the research community’s use of public GenAI tools. Awareness of these challenges can inform how researchers, scientific data repositories, and organizations engage with both public and private instances of GenAI tools. 
+
+</div>
+
+{.clearfix}
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Patient', prevUrl:'/userstories/patient.html', nextTitle: 'About', nextUrl:'/about' %} 
+{% render 'pagenavigation.html', prevTitle: 'Patient', prevUrl:'/userstories/patient.html', nextTitle: 'Glossary', nextUrl:'/glossary' %} 
