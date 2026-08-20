@@ -80,7 +80,7 @@ NICHD ODSS, supported by MITRE, developed a generalizable, scalable, and machine
 
 NICHD ODSS created the Record Linkage Implementation Checklist to provide guidance for decisions that must be made prior to designing and implementing a strategy for linking data from multiple sources and sharing and using the linked datasets for research. The checklist encourages funders, researchers, data repositories, and other stakeholders to collaborate to make a series of governance and technical decisions and was developed based on findings from an assessment of existing record linkage implementations. 
 
-### NICHD AI Rules Analysis
+### [NICHD AI Rules Analysis](https://github.com/NIH-NICHD-Ecosystem/E6-Protecting-scientific-data-when-using-generative-AI)
 
 NICHD ODSS conducted an analysis of how biomedical data protection obligations may conflict with the research community’s use of public GenAI tools. Awareness of these challenges can inform how researchers, scientific data repositories, and organizations engage with both public and private instances of GenAI tools. 
 
