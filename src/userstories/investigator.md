@@ -28,7 +28,7 @@ Leslie is an early-stage investigator. As a postdoc, Leslie was part of a study 
 
 Ultimately, they received approval after nearly 18 months to link data from two other datasets that were adequate but not optimal. The dataset holders wanted data use agreements with slightly different requirements over data retention, which took her institution’s legal team many additional months to work out. The process put the study behind by months and nearly led to its abandonment. But once the linkage was approved, their research began promptly and created important advances in the field’s understanding of Lyme disease.  
 
-Leslie knows it will be much harder to manage this process with three datasets. She learned about a new Linkage Governance Framework and hopes it will help her navigate the governance processes and lead to a successful linkage of the three datasets that are optimal to advance her research. She coordinates with her Institution to engage the process:
+Leslie knows it will be much harder to manage this process with three datasets. She learned about a new Linkage Governance Framework and hopes it will help her navigate the governance processes and lead to a successful linkage of the three datasets that are optimal to advance her research. She coordinates with her institution to engage the process:
 
 - Only one request package is required, despite needing access to three datasets. It goes to a single coordinating body that assesses study information for completeness and ensures that Leslie has provided a thorough plan for linkage implementation.  
 
