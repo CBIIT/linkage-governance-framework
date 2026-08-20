@@ -18,56 +18,33 @@ sticky_sidenav: true
 
 # Operational Exercise
 
-The [Linkage Governance Framework](/framework) was piloted through an Operational Exercise. The purpose of the Operational Exercise was to gather evidence about which aspects of the framework work well and which need improvement. Piloting the framework translated to running two mock research use cases through the Common Governance Process to test the process with real datasets and their governance. Each mock research use case represented desirable linkages and compelling research that is impossible today.  
+The [Linkage Governance Framework](/framework) was piloted through an Operational Exercise. The purpose of the Operational Exercise was to gather evidence about which aspects of the framework work well and which need improvement. Piloting the framework translated to running two mock research use cases through the Common Governance Process to test the process with real datasets and their governance. Each mock research use case represented desirable linkages for research that are impossible today.  
 
 ## Approach
 
 The Operational Exercise had two connected workstreams: 
 
-- Individual working sessions where participants walked through the Common Governance Process for each use case. 
+- Individual working sessions where participants walked through the Common Governance Process for each mock research use case. 
 - Group working sessions where participants discussed their experience in the process and suggested ways to make the process more efficient. 
 
 The Operational Exercise engaged participants from dataset holders across HHS. NCI project team members played the role of the investigator and MITRE played the role of the coordinating body.
 
+{% render 'cardgroup.html', 
+  title: 'Use Case 1: Type 2 Diabetes and Cancer Among Older Adults',
+  body: 'Use Case 1 explored how genetic factors may relate to cancer diagnoses and cancer outcomes among adults ages 65–85 with type 2 diabetes. A linkage was proposed to combine a genomic dataset from a related research project with Medicare claims data and EHR-based clinical data accessed via the <a href="https://ncats.nih.gov/research/research-activities/n3c/overview">National Clinical Cohort Collaborative</a> (N3C). Using the privacy-preserving record linkage (PPRL) method, person-level deidentified tokens would be used to match individuals and generate a linked dataset, accessible only within the N3C secure enclave.' 
+%}
 
-<div class="usa-card-group">
-  <div class="usa-card margin-top-3">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h3 class="usa-card__heading">Use Case 1: Type 2 Diabetes and Cancer Among Older Adults
-        </h3>
-      </div>
-      <div class="usa-card__body">
+{% render 'cardgroup.html', 
+  title: 'Use Case 2: Late Complications Following Immunotherapy Among Children, Adolescents, and Young Adults ',
+  body: 'Use Case 2 focused on late complications following immunotherapy in children and young adults (0–25 years) with cancer. A linkage was proposed to combine registry and EHR data from the <a href="https://cancercontrol.cancer.gov/research-emphasis/supplement/childhood-cancer-registry">National Childhood Cancer Registry</a> (NCCR), adverse event data from the FDA BEST program, and genomic data from past research projects &ndash; accessed via <a href="https://dbgap.ncbi.nlm.nih.gov/home/">dbGaP</a>. Two linkage methods were proposed to connect these data: PPRL to connect NCCR and FDA adverse event data and the <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative">Childhood Cancer Data Initiative</a> (CCDI) Participant Index (CPI) to connect NCCR data to genomic data.' 
+%}
 
-Use Case 1 explored how genetic factors may relate to cancer diagnoses and cancer outcomes among adults ages 65–85 with type 2 diabetes. A linkage was proposed to combine a genomic dataset from a related research project with Medicare claims data and EHR-based clinical data accessed via the <a href="https://ncats.nih.gov/research/research-activities/n3c/overview">National Clinical Cohort Collaborative</a> (N3C). Using the privacy-preserving record linkage (PPRL) method, person-level deidentified tokens would be used to match individuals and generate a linked dataset, accessible only within the N3C secure enclave.
+## Results
 
-      </div>
-    </div>
-  </div>
-</div>
+The exercise showed that the Common Governance Process fills a real gap in how complex data linkages are handled across agencies. It confirmed the value of a shared request path, a coordinating body role, and a structured method to bring rules together. The pilot also showed that the current process design asks too much of users up front and needs to check feasibility and privacy earlier. Overall, the pilot suggests the framework is on the right track, but future work should focus on simplifying intake, clearly defining who makes which decisions, and using technology to make governance information easier to find and use. 
 
-    
-<div class="usa-card-group">
-  <div class="usa-card">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h3 class="usa-card__heading">Use Case 2: Late Complications Following Immunotherapy Among Children, Adolescents, and Young Adults </h3>        
-      </div>
-      <div class="usa-card__body">
-
-Use Case 2 focused on late complications following immunotherapy in children and young adults (0–25 years) with cancer. A linkage was proposed to combine registry and EHR data from the [National Childhood Cancer Registry](https://cancercontrol.cancer.gov/research-emphasis/supplement/childhood-cancer-registry) (NCCR), adverse event data from the FDA BEST program, and genomic data from past research projects &ndash; accessed via [dbGaP](https://dbgap.ncbi.nlm.nih.gov/home/). Two linkage methods were proposed to connect these data: PPRL to connect NCCR and FDA adverse event data and the [Childhood Cancer Data Initiative](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative) (CCDI) Participant Index (CPI) to connect NCCR data to genomic data.
-
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-## Next Steps 
-
-Learnings from the Operational Exercise will be used to improve the Linkage Governance Framework, refine the Common Governance Process, and plan for future implementation.   
+These learnings can be used to improve the Linkage Governance Framework, refine the Common Governance Process, and plan for future implementation.   
 
 -----
 
-{% render 'pagenavigation.html', prevTitle: 'Common Governance Process', prevUrl:'/framework/common-governance-process.html', nextTitle: 'Framework Playbook', nextUrl:'/framework/playbook.html' %}   
+{% render 'pagenavigation.html', prevTitle: 'Common Governance Process', prevUrl:'/framework/common-governance-process.html', nextTitle: 'Playbook', nextUrl:'/framework/playbook.html' %}   

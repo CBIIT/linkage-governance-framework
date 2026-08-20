@@ -70,7 +70,7 @@ This framework differs from the current state of governance for linkage by intro
   <div class="usa-alert__body">
     <h4 class="usa-alert__heading">Join the Effort!</h4>
     
-Explore the Playbook, [connect with us](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#114;&#97;&#110;&#103;&#101;&#114;&#46;&#115;&#117;&#116;&#116;&#111;&#110;&#64;&#110;&#105;&#104;&#46;&#103;&#111;&#118;) for questions or collaboration opportunities, and follow this site for continued updates.
+Explore the Playbook, {% render "connect-mail-link.html", link_text:"connect with us" %} for questions or collaboration opportunities, and follow this site for continued updates.
 
   </div>
 </div>

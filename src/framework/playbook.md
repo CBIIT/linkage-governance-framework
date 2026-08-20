@@ -11,12 +11,12 @@ eleventyNavigation:
   parent: cgf-framework
   key: playbook
   order: 4
-  title: Framework Playbook
+  title: Playbook
 sidenav: true
 sticky_sidenav: true
 ---
 
-# Framework Playbook
+# Playbook
 
 The [playbook](/resources#playbook) is the primary source of information about the Linkage Governance Framework and its application.  The playbook was designed to help individuals to understand how the framework could function in real-world scenarios and to foster a shared understanding of the Common Governance Process and expectations of participants. 
 

@@ -27,7 +27,7 @@ The framework proposes three advances:
 
 ## Elements of the Framework
 
-The framework has five connected elements that support a new approach for complex linkages of individual-level health data. This framework was created for investigators pursuing complex linkages but its use is voluntary. It may not be helpful for all linkages. Linkages that are straightforward (for example, one-to-one linkage) should use existing governance processes.  [Read a text description of framework elements](framework-elements.html){ .usa-sr-only}
+The framework has five connected elements that support a new approach for complex linkages of individual-level health data. This framework was created for investigators pursuing complex linkages, but its use is voluntary. It may not be helpful for all linkages. Linkages that are straightforward (for example, one-to-one linkage) should use existing governance processes.  [Read a text description of framework elements](framework-elements.html){ .usa-sr-only}
 
 Hover over each framework element in diagram below to see details: 
 
@@ -35,7 +35,7 @@ Hover over each framework element in diagram below to see details:
 {% svg 'assets/resources/img/lgf-pentagon-hover.svg' %}
 </div>
 
- {% render 'callout.html', title: 'Playbook', body:'The Common Governance Framework to Link Individual-level Health Data for Research Playbook elaborates on all five elements of the framework. <a href="/framework/playbook.html">About the Playbook</a>' %}
+ {% render 'callout.html', title: 'Playbook', body:'The Governance Framework for Linking Individual-level Health Data for Research Strategic and Operational Playbook elaborates on all five elements of the framework. <a href="/framework/playbook.html">About the Playbook</a>' %}
  
 ----- 
 
