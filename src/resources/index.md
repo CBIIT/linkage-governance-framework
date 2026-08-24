@@ -21,9 +21,9 @@ This set of resources provides context for the Linkage Governance Framework and 
 
 ## Playbook{#playbook .resource-title}
 
-<a href="/docs/Common_Governance_Playbook_V4.1_POSTED.pdf" download="Common_Governance_Playbook_V4.1_POSTED.pdf" target="_blank" title="Download playbook">{% image_with_class "assets/resources/img/CommonGovernancePlaybookV4.1.jpg" "resource-preview" "Image of current state assessment report cover" %}</a> The playbook is a practical guide for understanding and using the {% glossary "linkage_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
+<a href="/docs/Common_Governance_Playbook_V4.2.pdf" download="Common_Governance_Playbook_V4.2.pdf" target="_blank" title="Download playbook">{% image_with_class "assets/resources/img/Common_Governance_Playbook_V4.2.jpg" "resource-preview" "Image of current state assessment report cover" %}</a> The playbook is a practical guide for understanding and using the {% glossary "linkage_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
 
-**Download:** <a href="/docs/Common_Governance_Playbook_V4.1_POSTED.pdf" download="Common_Governance_Playbook_V4.1_POSTED.pdf" target="_blank">Common Governance Playbook v4.1 (PDF - 2.9 MB)</a>
+**Download:** <a href="/docs/Common_Governance_Playbook_V4.2.pdf" download="Common_Governance_Playbook_V4.2.pdf" target="_blank">Common Governance Playbook v4.2 (PDF - 3.6 MB)</a>
 
 {.clearfix}
 
