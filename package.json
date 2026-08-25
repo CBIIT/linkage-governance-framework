@@ -33,7 +33,7 @@
     "chokidar-cli": "^3.0.0",
     "js-yaml": "^4.1.1",
     "jsdom": "^29.1.1",
-    "markdown-it": "^14.1.1",
+    "markdown-it": "^14.3.0",
     "markdown-it-attrs": "^4.3.1",
     "markdown-it-deflist": "^3.0.0",
     "markdown-it-footnote": "^4.0.0",
@@ -52,7 +52,7 @@
     "autoprefixer": "^10.5.0",
     "dotenv": "^17.4.2",
     "eleventy-plugin-toc": "^1.1.5",
-    "esbuild": "^0.27.7",
+    "esbuild": "^0.28.1",
     "esbuild-sass-plugin": "^3.7.0",
     "tippy.js": "^6.3.7"
   }
