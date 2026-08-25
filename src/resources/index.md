@@ -57,9 +57,9 @@ Process Standards (PDF - 284 KB)</a>
 
 ## Rule Harmonization Protocol{#rule-harmonization .resource-title}
 
-<a href="/docs/Rule_Harmonization_6_18_26_POSTED.pdf" download="Rule_Harmonization_6_18_26_POSTED.pdf" target="_blank" title="Download rrule harmonization protocol">{% image_with_class "assets/resources/img/RuleHarmonizationCover.jpg" "resource-preview" "Image of rule harmonization protocol cover" %}</a>This step-by-step protocol is a procedural guide for comparing, organizing, and aligning governance rules across multiple datasets. It shows how to inventory rules, classify where they overlap or conflict, and create one consolidated rule set that everyone can follow when using linked data.
+<a href="/docs/Rule_Harmonization_Protocol_V4.2.pdf" download="Rule_Harmonization_Protocol_V4.2.pdf" target="_blank" title="Download rrule harmonization protocol">{% image_with_class "assets/resources/img/RuleHarmonizationCover.jpg" "resource-preview" "Image of rule harmonization protocol cover" %}</a>This step-by-step protocol is a procedural guide for comparing, organizing, and aligning governance rules across multiple datasets. It shows how to inventory rules, classify where they overlap or conflict, and create one consolidated rule set that everyone can follow when using linked data.
 
-**Download:** <a href="/docs/Rule_Harmonization_6_18_26_POSTED.pdf" download="Rule_Harmonization_6_18_26_POSTED.pdf" target="_blank" title="Download rrule harmonization protocol">Rule Harmonization Protocol (PDF - 2.1 MB)</a>
+**Download:** <a href="/docs/Rule_Harmonization_Protocol_V4.2.pdf" download="Rule_Harmonization_Protocol_V4.2.pdf" target="_blank" title="Download rrule harmonization protocol">Rule Harmonization Protocol v4.2 (PDF - 1.2 MB)</a>
 
 {.clearfix}
 
