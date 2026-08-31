@@ -21,9 +21,9 @@ This set of resources provides context for the Linkage Governance Framework and 
 
 ## Playbook{#playbook .resource-title}
 
-<a href="/docs/Common_Governance_Playbook_V4.2.pdf" download="Common_Governance_Playbook_V4.2.pdf" target="_blank" title="Download playbook">{% image_with_class "assets/resources/img/Common_Governance_Playbook_V4.2.jpg" "resource-preview" "Image of current state assessment report cover" %}</a> The playbook is a practical guide for understanding and using the {% glossary "linkage_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
+<a href="/docs/Framework_Playbook_V4.2.pdf" download="Framework_Playbook_V4.2.pdf" target="_blank" title="Download playbook">{% image_with_class "assets/resources/img/Common_Governance_Playbook_V4.2.jpg" "resource-preview" "Image of current state assessment report cover" %}</a> The playbook is a practical guide for understanding and using the {% glossary "linkage_governance_framework", glossary %} to link individual-level health data for research. It explains key concepts, walks through the Common Governance Process step by step, and clarifies roles, decisions, and tools so teams can apply the framework in real-world studies. Implementation materials and useful templates are included as appendices.   
 
-**Download:** <a href="/docs/Common_Governance_Playbook_V4.2.pdf" download="Common_Governance_Playbook_V4.2.pdf" target="_blank">Common Governance Playbook v4.2 (PDF - 3.6 MB)</a>
+**Download:** <a href="/docs/Framework_Playbook_V4.2.pdf" download="Framework_Playbook_V4.2.pdf" target="_blank">Framework Playbook v4.2 (PDF - 3.6 MB)</a>
 
 {.clearfix}
 
@@ -80,7 +80,7 @@ NICHD ODSS, supported by MITRE, developed a generalizable, scalable, and machine
 
 NICHD ODSS created the Record Linkage Implementation Checklist to provide guidance for decisions that must be made prior to designing and implementing a strategy for linking data from multiple sources and sharing and using the linked datasets for research. The checklist encourages funders, researchers, data repositories, and other stakeholders to collaborate to make a series of governance and technical decisions and was developed based on findings from an assessment of existing record linkage implementations. 
 
-### [NICHD AI Rules Analysis](https://github.com/NIH-NICHD-Ecosystem/E6-Protecting-scientific-data-when-using-generative-AI)
+### [NICHD Generative AI Rules Analysis](https://github.com/NIH-NICHD-Ecosystem/E6-Protecting-scientific-data-when-using-generative-AI)
 
 NICHD ODSS conducted an analysis of how biomedical data protection obligations may conflict with the research community’s use of public GenAI tools. Awareness of these challenges can inform how researchers, scientific data repositories, and organizations engage with both public and private instances of GenAI tools. 
 
